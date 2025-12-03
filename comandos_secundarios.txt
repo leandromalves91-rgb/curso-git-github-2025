@@ -1,1 +1,7 @@
 esse arquivo contém comandos secundários de git
+
+# comandos branch
+- git branch		-> lista todas as branchs
+- git branch <nome>	-> muda para a branch específica
+- git checkout <nome>	-> muda para a branch especificada
+- mit merge <nome>	-> mescla a branch atual com a branch especificada
