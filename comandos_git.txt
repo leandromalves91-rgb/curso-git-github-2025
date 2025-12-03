@@ -3,6 +3,7 @@ git status		-> mostra o status do trabalho (de cada arquivo)
 git add nome arquivo	-> adiciona arquivo para ser commitado
 git commit -m "msg"	-> faz commit do que estava para ser commitado
 git log			-> mostra todo o histórico de commits
+git diff		-> mostra a diferença dos arquivos
 
 ## FLUXO DE TRABALHO
 1. criar o diretório do projeto
@@ -11,6 +12,6 @@ git log			-> mostra todo o histórico de commits
 4. git status
 5. git add <nome arquivo>
 6. git status
-7. git commit -m "mensagem"
+7. git commit -m "Mensagem qualquer"
 8. git status
 9. volta para o passo 3
